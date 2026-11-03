@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2026.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\processSimulator_STUDENT_clion.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\processSimulator_STUDENT_clion.dir/objects.a @CMakeFiles\processSimulator_STUDENT_clion.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\processSimulator_STUDENT_clion.dir/objects.a -Wl,--no-whole-archive -o processSimulator_STUDENT_clion.exe -Wl,--out-implib,libprocessSimulator_STUDENT_clion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\processSimulator_STUDENT_clion.dir\linkLibs.rsp

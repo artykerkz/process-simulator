@@ -1,0 +1,3 @@
+C:/Users/ArtyKerkz/Downloads/processSimulator_STUDENT_clion/processSimulator_STUDENT_clion/cmake-build-debug/CMakeFiles/processSimulator_STUDENT_clion.dir
+C:/Users/ArtyKerkz/Downloads/processSimulator_STUDENT_clion/processSimulator_STUDENT_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ArtyKerkz/Downloads/processSimulator_STUDENT_clion/processSimulator_STUDENT_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
